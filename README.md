@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Adli Mustofa!
-
+![Profile Views](https://komarev.com/ghpvc/?username=AdliMustofa120140022)
 I'm a passionate Informatics Engineering Student at Sumatra Institute of Technology. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
@@ -22,22 +22,9 @@ I'm a passionate Informatics Engineering Student at Sumatra Institute of Technol
 - Building awesome web applications
 - Contributing to open source projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdliMustofa120140022)
-
-## 💬 Get in Touch
+## 💬 Contact Me
 
 - Email: [adli.120140022@student.itera.ac.id](mailto:adli.120140022@student.itera.ac.id)
 - Instagram: [@adlimstf](https://instagram.com/adlimstf?igshid=NzZlODBkYWE4Ng==)
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](#)
-- [Blog Post Title 2](#)
-<!-- BLOG-POST-LIST:END -->
 
 Thanks for stopping by! 😊
