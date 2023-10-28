@@ -1,16 +1,41 @@
-### Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
 
-<!--
-**AdliMustofa120140022/AdliMustofa120140022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate [Your Profession] from [Your Location]. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-purple?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 🌱 I'm Currently Learning
+
+- Advanced React Patterns
+- Data Structures and Algorithms
+
+## 🔍 What I'm Working On
+
+- Building awesome web applications
+- Contributing to open source projects
+
+## 💬 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1](#)
+- [Blog Post Title 2](#)
+<!-- BLOG-POST-LIST:END -->
+
+Thanks for stopping by! 😊
