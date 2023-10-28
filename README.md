@@ -26,8 +26,8 @@ I'm a passionate Informatics Engineering Student at Sumatra Institute of Technol
 
 ## 💬 Get in Touch
 
-- Email: [ad](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- Email: [adli.120140022@student.itera.ac.id](mailto:adli.120140022@student.itera.ac.id)
+- Twitter: [@YourTwitterHandle]([https://twitter.com/your-twitter-handle](https://instagram.com/adlimstf?igshid=NzZlODBkYWE4Ng==))
 
 ## 📈 GitHub Stats
 
