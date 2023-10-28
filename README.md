@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Adli Mustofa]!
 
-I'm a passionate [Your Profession] from [Your Location]. Welcome to my GitHub profile!
+I'm a passionate [Informatics Engineering Student] at [Sumatra Institute of Technology]. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
