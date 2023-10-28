@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Adli Mustofa]!
+# 👋 Hi there, I'm Adli Mustofa!
 
-I'm a passionate [Informatics Engineering Student] at [Sumatra Institute of Technology]. Welcome to my GitHub profile!
+I'm a passionate Informatics Engineering Student at Sumatra Institute of Technology. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -22,9 +22,12 @@ I'm a passionate [Informatics Engineering Student] at [Sumatra Institute of Tech
 - Building awesome web applications
 - Contributing to open source projects
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💬 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: [ad](https://www.linkedin.com/in/your-linkedin-profile)
 - Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
 
 ## 📈 GitHub Stats
