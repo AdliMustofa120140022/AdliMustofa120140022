@@ -22,8 +22,7 @@ I'm a passionate Informatics Engineering Student at Sumatra Institute of Technol
 - Building awesome web applications
 - Contributing to open source projects
 
-![Profile Views](https://komarev.com/ghpvc/?AdliMustofa120140022=your-AdliMustofa120140022)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AdliMustofa120140022=your-AdliMustofa120140022&layout=compact)](https://github.com/AdliMustofa120140022/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=AdliMustofa120140022)
 
 ## 💬 Get in Touch
 
