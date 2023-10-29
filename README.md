@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Adli Mustofa!
 ![Profile Views](https://komarev.com/ghpvc/?username=AdliMustofa120140022)
 
-I'm a passionate Informatics Engineering Student at Sumatra Institute of Technology. Welcome to my GitHub profile!
+I'm a Informatics Engineering Student at Sumatra Institute of Technology. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
